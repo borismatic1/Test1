@@ -5,5 +5,5 @@ Homestead.json
 _ide_helper.php
 .env.example
 
-\vendor\barryvdh
-.idea\
+vendor/barryvdh
+/.idea
