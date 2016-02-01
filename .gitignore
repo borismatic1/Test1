@@ -1,4 +1,3 @@
-/vendor
 /node_modules
 Homestead.yaml
 Homestead.json
@@ -6,5 +5,5 @@ Homestead.json
 _ide_helper.php
 .env.example
 
-\barryvdh
+\vendor\barryvdh
 .idea\
