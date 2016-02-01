@@ -4,6 +4,7 @@ Homestead.json
 .env
 _ide_helper.php
 .env.example
+readme.md
 
 vendor/barryvdh
 /.idea
